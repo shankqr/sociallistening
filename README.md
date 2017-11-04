@@ -1,2 +1,3 @@
-# sociallistening
-Social Media Listening Tool
+# Facebook public post scrapper
+
+Scrape facebook for public post that consist of predetermined keywords
